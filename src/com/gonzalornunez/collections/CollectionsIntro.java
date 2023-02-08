@@ -1,4 +1,4 @@
-package com.gonzalornunez.arrays;
+package com.gonzalornunez.collections;
 
 public class CollectionsIntro {
 
@@ -17,6 +17,31 @@ public class CollectionsIntro {
         //for example .add() to add an element to the collection.
 
         //Collections can only hold Object types. NOT PRIMITIVE TYPES.
+
+        //A Collection represent a group of DISCRETE OBJECTS.
+        //Interfaces, Classes, Algorithms.
+
+        //GROUP OF OBJECTS IN A SINGLE UNIT
+
+        //Collection - most commons functions applicable for collection objects.
+            //List - ArrayList - LinkedList -
+                    // Vector - Stack
+            //Set - HashSet - LinkedHashSet -
+                    // SortedSet - NavigableSet - TreeSet
+            //Queue - PriorityQueue
+                    // BlockingQueue - LinkedBlockingQueue
+                                    // PriorityBlockingQueue
+
+        //GROUP OF OBJECTS IN KEY-VALUE PAIR
+
+        //MAP
+            //HashMap - LinkedHashMap
+            //WeakHashMap
+            //IdentityHashMap
+            //Hashtable(extends Dictionary) - Properties
+            //SortedMap - NavigableMap - TreeMap
+
+
 
     }
 }
