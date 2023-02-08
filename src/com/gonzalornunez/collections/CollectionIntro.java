@@ -1,6 +1,6 @@
 package com.gonzalornunez.collections;
 
-public class CollectionsIntro {
+public class CollectionIntro {
 
     public static void main(String[] args) {
 
@@ -11,12 +11,12 @@ public class CollectionsIntro {
         //Because if we have 2 elements in a 10 length array.
         //8 elements will be wasted.
 
-        //Collections are recommended to stop memory wastage as it grows in demand.
+        //Collection are recommended to stop memory wastage as it grows in demand.
 
         //Unlike arrays, Collections have in built data structure and algorithms.
         //for example .add() to add an element to the collection.
 
-        //Collections can only hold Object types. NOT PRIMITIVE TYPES.
+        //Collection can only hold Object types. NOT PRIMITIVE TYPES.
 
         //A Collection represent a group of DISCRETE OBJECTS.
         //Interfaces, Classes, Algorithms.
